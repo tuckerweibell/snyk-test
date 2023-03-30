@@ -1,0 +1,3 @@
+command = gets
+
+system("#{command}")
