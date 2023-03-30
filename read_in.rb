@@ -1,1 +1,3 @@
-system("echo 'yo'")
+command = gets
+
+system("#{command}")
