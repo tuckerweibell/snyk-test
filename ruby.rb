@@ -1,1 +1,6 @@
-puts 'this is a test'
+url = gets
+
+open(url)
+
+password = "123"
+username = "456
